@@ -1,7 +1,7 @@
 {
   "name": "@nizarlazuardy/turangga",
-  "version": "1.0.0",
-  "private": false,
+  "version": "1.2.0",
+s  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
