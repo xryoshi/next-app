@@ -1,5 +1,5 @@
 {
-  "name": "turangga",
+  "name": "@nizarlazuardy/turangga",
   "version": "1.0.0",
   "private": false,
   "scripts": {
@@ -28,7 +28,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xryoshi/turangga"
+    "url": "git+https://github.com/xryoshi/turangga.git"
   },
   "keywords": [
     "turangga"
